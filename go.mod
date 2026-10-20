@@ -1,6 +1,6 @@
 module github.com/yusufozturk/chbuf
 
-go 1.19
+go 1.24
 
 require (
 	github.com/ClickHouse/ch-go v0.48.0
@@ -13,7 +13,7 @@ require (
 require (
 	github.com/go-faster/city v1.0.1 // indirect
 	github.com/go-faster/errors v0.6.1 // indirect
-	github.com/klauspost/compress v1.15.9 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/pierrec/lz4/v4 v4.1.16 // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
 	go.opentelemetry.io/otel v1.10.0 // indirect
